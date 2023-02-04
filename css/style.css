@@ -29,9 +29,7 @@
 /* ADDITIONAL STYLES
 /*******************************************/
 
-/* Please make the someText 12px,
-moreText 16px, and lastText 27px */
-
+/* Please make the someText 12px, moreText 16px, and lastText 27px */
 .someText {
   font-size: 12px;
 }
@@ -44,11 +42,9 @@ moreText 16px, and lastText 27px */
   font-size: 27px;
 }
 
-/* Please double the font-size of someText,
-moreText, and lastText (still using px) */
-
-.someText  {
-font-size: 24px;
+/* Please double the font-size of someText, moreText, and lastText (still using px) */
+.someText {
+  font-size: 24px;
 }
 
 .moreText {
@@ -59,45 +55,36 @@ font-size: 24px;
   font-size: 54px;
 }
 
-/* Please set a base font-size on heyo, 
-and make someText 12px, moreText 16px, 
-and lastText 27px BUT use ems instead of px */
-
+/* Please set a base font-size on heyo, and make someText 12px, moreText 16px, and lastText 27px BUT use ems instead of px */
 .heyo {
   font-size: 10px;
 }
 
 .someText {
-  font-size: 1.2em;
+  font-size: 1.2px;
 }
 
 .moreText {
-  font-size: 1.6em;
+  font-size: 1.6px;
 }
 
 .lastText {
-  font-size: 2.7em;
+  font-size: 2.7px;
 }
 
-/* Please double the size of someText, 
-moreText, and lastText using ems, but only make one change */
-
+/* Please double the size of someText, moreText, and lastText using ems, but only make one change */
 .heyo {
-  font-size: 2em;
+  font-size: 20px;
 }
 
-
-/* Please wrap lastText in a new section with the class of utOh
-and give it a base font size of 40px */
-
-.uhOh {
+/* Please wrap lastText in a new section with the class of utOh and give it a base font size of 40px */
+.utOh {
   font-size: 40px;
 }
 
-/* Please fix your doubling of lastText,
-buy converting to rems */
+/* Please fix your doubling of lastText, buy converting to rems */
 
-html{
+html {
   font-size: 62.5%;
 }
 
